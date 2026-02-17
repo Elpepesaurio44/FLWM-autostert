@@ -1,4 +1,3 @@
-```markdown
 # FLWM Nord Edition ❄️
 
 Esta es una versión personalizada de **FLWM** (Fast Light Window Manager), un gestor de ventanas extremadamente ligero y rápido para X11. Esta edición ha sido modificada para ofrecer una estética moderna basada en la paleta de colores **Nord** y añadir funcionalidades de automatización.
@@ -22,6 +21,13 @@ Antes de compilar, necesitas instalar las librerías de desarrollo de **FLTK** y
 | **Alpine Linux** | `sudo apk add build-base fltk-dev libx11-dev libxext-dev` |
 | **Void Linux** | `sudo xbps-install -S base-devel fltk-devel libX11-devel libXext-devel` |
 | **openSUSE** | `sudo zypper install -t pattern devel_C_C++ && sudo zypper install fltk-devel libX11-devel` |
+
+## 🚀 Instalación Rápida
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/Elpepesaurio44/FLWM-autostert.git](https://github.com/Elpepesaurio44/FLWM-autostert.git)
+   cd FLWM-autostert
 
 ## 🚀 Instalación Rápida
 
