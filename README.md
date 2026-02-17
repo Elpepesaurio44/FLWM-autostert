@@ -18,7 +18,7 @@ Antes de compilar, necesitas instalar las librerías de desarrollo de **FLTK** y
 | **Arch Linux** | `sudo pacman -S base-devel fltk xorg-server xorg-xinit` |
 | **Debian / Ubuntu** | `sudo apt install build-essential libfltk1.3-dev libx11-dev libxext-dev` |
 | **Fedora** | `sudo dnf groupinstall "Development Tools" && sudo dnf install fltk-devel libX11-devel` |
-| **Alpine Linux** | `sudo apk add build-base fltk-dev libx11-dev libxext-dev` |
+| **Alpine Linux** | `sudo apk add build-base fltk-dev libx11-dev libxext-dev autoconf automake make g++ fltk-dev libx11-dev libxext-dev` |
 | **Void Linux** | `sudo xbps-install -S base-devel fltk-devel libX11-devel libXext-devel` |
 | **openSUSE** | `sudo zypper install -t pattern devel_C_C++ && sudo zypper install fltk-devel libX11-devel` |
 
